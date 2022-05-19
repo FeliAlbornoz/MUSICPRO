@@ -91,7 +91,7 @@ body{
 }
 
 .bodega{
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .card{
@@ -103,6 +103,23 @@ body{
     float: left;
 }
 
-.op-cards{
+.op-card{
     margin-top: 30px;
+}
+
+.bodega1{
+    margin-top: 30px;
+}
+
+.letra{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.op-card1{
+    margin-left: 20px;
+}
+
+.check1{
+    margin-top: 20px;
 }
