@@ -99,11 +99,10 @@ body{
     display: flex;
 }
 
-p{
-    text-align: end;
-    text-align: top;
-
-}
 .form-check{
     float: left;
+}
+
+.op-cards{
+    margin-top: 30px;
 }
