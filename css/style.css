@@ -1,0 +1,86 @@
+:root{
+    --negro: #111111;
+    --gris-oscuro:#2F2F2F;
+    --gris-claro: #F6F6F6;
+    --blanco:#FFFFFF;
+    --amarillo:#FFCB74;
+}
+
+.body-login{
+    margin-top: 50px;
+}
+
+.form-container {
+    border-radius: 20px;
+    background: var(--gris-claro);
+    text-align: center;
+}
+.form-container{
+    width: 25%;
+}
+
+.form-group{
+    text-align:left;
+}
+
+h6{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.body-login{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.op-logo-login{
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.signup-tag{
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+label{
+    font-size: 20px;
+}
+
+.form-control{
+    margin-bottom: 30px;
+}
+
+.container-field{
+    border-bottom: 2px solid;
+    display:inline-block;
+    width: 90%;
+}
+
+nav{
+    background-color: #111111;   
+}
+
+.nav-link{
+    color: #F6F6F6;
+    font-weight: 500;
+}
+.op-logo{
+    color: #F6F6F6;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #F6F6F6;
+}
+
+.card{
+    margin-left: 10px;
+}
+.btn1{
+    justify-content: end;
+}
