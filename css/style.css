@@ -82,5 +82,28 @@ body{
     margin-left: 10px;
 }
 .btn1{
-    justify-content: end;
+    margin-top: 400px;
+    float: right;
+}
+
+.uwu{
+    background-color: #FFFFFF;
+}
+
+.bodega{
+    margin-top: 40px;
+}
+
+.card{
+    width: 74%;
+    display: flex;
+}
+
+p{
+    text-align: end;
+    text-align: top;
+
+}
+.form-check{
+    float: left;
 }
